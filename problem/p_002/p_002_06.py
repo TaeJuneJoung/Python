@@ -118,4 +118,23 @@ for i in range(5):
     print()
 
 print("[6-7]")
-#6-7풀기 및 python에 맞게 다른 방법으로 풀어보기
+num = 5
+white = 4
+for i in range(9):
+    if i < 4:
+        for j in range(num):
+            if j < white:
+                print(" ", end="")
+            else:
+                print("*", end="")
+        num += 1
+        white -= 1
+    else:
+        for j in range(num):
+            if j >= white:
+                print("*", end="")
+            else:
+                print(" ", end="")
+        num -= 1
+        white += 1
+    print()
