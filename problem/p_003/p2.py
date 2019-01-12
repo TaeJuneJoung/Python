@@ -25,4 +25,3 @@ for i in data:
 
 result = " ".join(result)
 print(result)
-    

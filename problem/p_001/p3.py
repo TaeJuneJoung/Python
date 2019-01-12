@@ -1,6 +1,3 @@
-
-#3번 문제
-
 """
 [개굴개굴 개구리]
 "개굴!"
@@ -20,7 +17,19 @@ ex)
 inputValue = input()
 inputSplit = inputValue.split(" ")
 
-
 for i in inputSplit:
     a = len(i)
     print("개굴"*a, end=' ')
+result = ""
+
+
+'''
+# 다른방도
+'''
+# inputValue = input()
+# for i in inputValue:
+#     if i==" ":
+#         result += i
+#     else:
+#         result += "개굴"
+# print(result)

@@ -138,3 +138,4 @@ for i in range(9):
         num -= 1
         white += 1
     print()
+    

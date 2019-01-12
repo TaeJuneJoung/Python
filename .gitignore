@@ -1,6 +1,10 @@
 .vscode/
 studyPython/beginner200/__pycache__
 studyPython/beginner200/mylib/__pycache__
+teleBot/bot.py
+teleBot/Procfile
+teleBot/requirements.txt
+teleBot/runtime.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

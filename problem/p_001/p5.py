@@ -1,6 +1,3 @@
-
-#5번 문제
-
 """
 [개구리 왕자 이름 찾기]
 수많은 개구리 중 이름이 F로 시작하는 개구리 왕자 찾기
@@ -23,9 +20,7 @@ frogList = ['Alice','Bob','Frog']
 
 def isPrince(frogList):
     for i in frogList:
-        if(i[0]=='F' or 'f'):
-            result = i
-
-    return result
+        if(i[0].upper()=='F'):
+            return i
 
 print(isPrince(frogList))

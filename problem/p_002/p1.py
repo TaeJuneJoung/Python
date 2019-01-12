@@ -33,3 +33,4 @@ elif(score//10>=6):
         print("+")
 else:
     print("F")
+    
