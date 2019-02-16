@@ -154,5 +154,5 @@ def telegram():
     
     
 #해당 명령어를 사용하면 python app.py로 연결할 수 있다.
-# app.run(host=os.getenv('IP','0.0.0.0'), port=int(os.getenv('PORT',8080)))
+#app.run(host=os.getenv('IP','0.0.0.0'), port=int(os.getenv('PORT',8080)))
 #os.getenv('IP','0.0.0.0') -> IP값을 가져오고 없으면 0.0.0.0으로 한다.
