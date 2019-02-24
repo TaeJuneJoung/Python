@@ -19,14 +19,15 @@ for t in range(1,11):
                 max_idx = i
         I[min_idx] += 1
         I[max_idx] -= 1
+    print(f"#{t} {max(I) - min(I)}")
     
-    for i in range(100):
-        temp = I[i]
-        if min_n >= temp:
-            min_n = temp
-            min_idx = i
-        if max_n <= temp:
-            max_n = temp
-            max_idx = i
+    # for i in range(100):
+    #     temp = I[i]
+    #     if min_n >= temp:
+    #         min_n = temp
+    #         min_idx = i
+    #     if max_n <= temp:
+    #         max_n = temp
+    #         max_idx = i
 
-    print(f"#{t} {I[max_idx] - I[min_idx]}")
+    # print(f"#{t} {I[max_idx] - I[min_idx]}")
