@@ -20,3 +20,28 @@ for t in range(10):
             result = row if row > result else result
             result = col if col > result else result
     print(f"#{t_n} {result}")
+
+
+# 2019.02.25 풀이
+# for t in range(1,11):
+#     T = int(input())
+#     arr = [list(map(int, input().split())) for i in range(100)]
+#     left = 0
+#     right = 0
+#     num_val = 0
+#     for i in range(100):
+#         left += arr[i][i]
+#         right += arr[i][i]
+#         row_val = 0
+#         col_val = 0
+#         for j in range(100):
+#             row_val += arr[i][j]
+#             col_val += arr[j][i]
+#         num_val = num_val if num_val > row_val else row_val
+#         num_val = num_val if num_val > col_val else col_val
+
+    
+#     max_val = left if left > right else right
+#     max_val = max_val if max_val > num_val else num_val
+
+#     print(f"#{t} {max_val}")
