@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('input/p1213.txt', 'r', encoding='UTF8')
+sys.stdin = open('../input/p1213.txt', 'r', encoding='UTF8')
 
 """
 T - 테스트케이스 번호 담는 변수

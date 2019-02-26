@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('input/p4837.txt', 'r')
+sys.stdin = open('../input/p4837.txt', 'r')
 
 T = int(input())
 A = list(range(1,13))

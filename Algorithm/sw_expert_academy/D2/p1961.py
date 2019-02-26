@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('input/p1961.txt', 'r')
+sys.stdin = open('../input/p1961.txt', 'r')
 
 T = int(input())
 angle = 3

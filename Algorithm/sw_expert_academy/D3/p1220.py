@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('input/p1220.txt', 'r')
+sys.stdin = open('../input/p1220.txt', 'r')
 
 for t in range(1,11):
     N = int(input())

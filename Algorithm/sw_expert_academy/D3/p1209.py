@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('input/p1209.txt', 'r')
+sys.stdin = open('../input/p1209.txt', 'r')
 
 #2차열 리스트가 아닌 하나의 리스트로 담아진행. But, 느림
 for t in range(10):

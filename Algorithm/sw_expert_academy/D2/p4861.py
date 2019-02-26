@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('input/p4861.txt', 'r')
+sys.stdin = open('../input/p4861.txt', 'r')
 
 def check(N,M,arr):
     for n in range(N):
