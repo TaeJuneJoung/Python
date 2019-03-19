@@ -60,13 +60,15 @@ input/<br>
 
 ### D2
 
-`26`<br>
+`29`<br>
 
 1204.최빈수 구하기<br>
 
 1288.새로운 불면증 치료법<br>
 
-1859.백만 장자 프로젝트<br>
+<span style="color:#007bff;font-weight:bold">1859.백만 장자 프로젝트</span><br>
+
+1926.간단한 369게임<br>
 
 1940.가랏! RC카!<br>
 
@@ -75,6 +77,8 @@ input/<br>
 1948.날짜 계산기<br>
 
 1954.달팽이 숫자<br>
+
+1959.두 개의 숫자열<br>
 
 1961.숫자 배열 회전<br>
 
@@ -95,6 +99,8 @@ input/<br>
 4834.숫자 카드<br>
 
 4835.구간합<br>
+
+4836.색칠하기<br>
 
 4839.이진탐색<br>
 
@@ -134,7 +140,7 @@ input/<br>
 
 1284.수도 요금 경쟁<br>
 
-1860.진기의 최고급 붕어빵<br>
+<span style="color:#007bff;font-weight:bold">1860.진기의 최고급 붕어빵</span><br>
 
 1976.시각 덧셈<br>
 
@@ -144,7 +150,7 @@ input/<br>
 
 4466.최대 성적표 만들기<br>
 
-4831.전기버스<br>
+<span style="color:#007bff;font-weight:bold">4831.전기버스</span><br>
 
 4837.부분집합의 합<br>
 
@@ -160,13 +166,13 @@ input/<br>
 
 5549.홀수일까 짝수일까<br>
 
-5607.[Professional]조합<br>
+<span style="color:#007bff;font-weight:bold">5607.[Professional]조합</span><br>
 
-5642.[Professional]합<br>
+<span style="color:#007bff;font-weight:bold">5642.[Professional]합</span><br>
 
 6019.기차 사이의 파리<br>
 
-6190.정곤이의 단조 증가하는 수<br>
+<span style="color:#007bff;font-weight:bold">6190.정곤이의 단조 증가하는 수</span><br>
 
 6485.삼성시의 버스 노선<br>
 
@@ -174,7 +180,7 @@ input/<br>
 
 ### D4
 
-`6`
+`9`
 
 1210.Ladder1<br>
 
@@ -184,7 +190,13 @@ input/<br>
 
 1227.미로2<br>
 
+<span style="color:#007bff;font-weight:bold">1231.중위순회</span><br>
+
+3143.가장 빠른 문자열 타이핑<br>
+
 5432.쇠막대기 자르기<br>
+
+5550.나는 개구리로소이다<br>
 
 6959.이상한 나라의 덧셈게임<br>
 
@@ -192,7 +204,9 @@ input/<br>
 
 ### D5
 
-`1`
+`2`
+
+1259.금속막대<br>
 
 1265.달란트2<br>
 
