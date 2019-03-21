@@ -60,11 +60,13 @@ input/<br>
 
 ### D2
 
-`29`<br>
+`30`<br>
 
 1204.최빈수 구하기<br>
 
 1288.새로운 불면증 치료법<br>
+
+1289.원재의 메모리 복구하기<br>
 
 <span style="color:#007bff;font-weight:bold">1859.백만 장자 프로젝트</span><br>
 
