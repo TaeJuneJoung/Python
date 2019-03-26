@@ -126,7 +126,7 @@ input/<br>
 
 ### D3
 
-`26`
+`30`
 
 1206.View<br>
 
@@ -163,6 +163,16 @@ input/<br>
 5099.피자 굽기<br>
 
 5162.두가지 빵의 딜레마<br>
+
+<span style="color:#007bff;font-weight:bold">5188.최소합</span><br>
+
+5201.컨테이너 운반<br>
+
+<span style="color:#007bff;font-weight:bold">5202.화물 도크</span><br>
+
+5203.베이비진 게임<br>
+
+5205.퀵 정렬<br>
 
 5356.의석이의 세로로 말해요<br>
 
