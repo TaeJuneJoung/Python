@@ -60,7 +60,7 @@ input/<br>
 
 ### D2
 
-`30`<br>
+`31`<br>
 
 1204.최빈수 구하기<br>
 
@@ -75,6 +75,8 @@ input/<br>
 1940.가랏! RC카!<br>
 
 1945.간단한 소인수분해<br>
+
+<span style="color:#007bff;font-weight:bold">1946.간단한 압축 풀기</span><br>
 
 1948.날짜 계산기<br>
 
@@ -126,7 +128,7 @@ input/<br>
 
 ### D3
 
-`30`
+`33`
 
 1206.View<br>
 
@@ -147,6 +149,8 @@ input/<br>
 <span style="color:#007bff;font-weight:bold">1860.진기의 최고급 붕어빵</span><br>
 
 1976.시각 덧셈<br>
+
+<span style="color:#007bff;font-weight:bold">2806.N-Queen</span><br>
 
 3032.홍준이의 숫자 놀이<br>
 
@@ -172,7 +176,11 @@ input/<br>
 
 5203.베이비진 게임<br>
 
+<span style="color:#007bff;font-weight:bold">5204.병합 정렬</span><br>
+
 5205.퀵 정렬<br>
+
+<span style="color:#007bff;font-weight:bold">5209.최소 생산 비용</span><br>
 
 5356.의석이의 세로로 말해요<br>
 
@@ -194,7 +202,7 @@ input/<br>
 
 ### D4
 
-`9`
+`10`
 
 1210.Ladder1<br>
 
@@ -205,6 +213,8 @@ input/<br>
 1227.미로2<br>
 
 <span style="color:#007bff;font-weight:bold">1231.중위순회</span><br>
+
+<span style="color:#007bff;font-weight:bold">1486.장훈이의 높은 선반</span><br>
 
 3143.가장 빠른 문자열 타이핑<br>
 
