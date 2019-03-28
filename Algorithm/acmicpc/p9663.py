@@ -1,6 +1,8 @@
 import sys
 input = sys.stdin.readline
 
+cnt = 0
+
 def f(i, N):
     global cnt
     if i == N:
@@ -24,6 +26,5 @@ arr = [[0 for i in range(N)] for i in range(N)]
 col = [0 for i in range(N)]
 del_right = [0 for i in range(2*N-1)]
 del_left = [0 for i in range(2*N-1)]
-cnt = 0
 f(0, N)
 print(cnt)
