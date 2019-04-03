@@ -128,7 +128,7 @@ input/<br>
 
 ### D3
 
-`33`
+`38`
 
 1206.View<br>
 
@@ -143,6 +143,8 @@ input/<br>
 1221.GNS<br>
 
 1240.단순 2진 암호코드<br>
+
+<span style="color:#007bff;font-weight:bold;">1244.최대 상금</span><br>
 
 1284.수도 요금 경쟁<br>
 
@@ -180,7 +182,15 @@ input/<br>
 
 5205.퀵 정렬<br>
 
+<span style="color:#007bff;font-weight:bold;">5208.전기버스2</span><br>
+
 <span style="color:#007bff;font-weight:bold">5209.최소 생산 비용</span><br>
+
+<span style="color:#007bff;font-weight:bold;">5247.연산</span><br>
+
+<span style="color:#007bff;font-weight:bold;">5248.그룹 나누기</span><br>
+
+<span style="color:#007bff;font-weight:bold;">5249.최소 신장 트리</span><br>
 
 5356.의석이의 세로로 말해요<br>
 
@@ -202,7 +212,7 @@ input/<br>
 
 ### D4
 
-`10`
+`21`
 
 1210.Ladder1<br>
 
@@ -214,9 +224,31 @@ input/<br>
 
 <span style="color:#007bff;font-weight:bold">1231.중위순회</span><br>
 
+<span style="color:#007bff;font-weight:bold;">1249.보급로</span><br>
+
 <span style="color:#007bff;font-weight:bold">1486.장훈이의 높은 선반</span><br>
 
+1861.정사각형 방<br>
+
+<span style="color:#007bff;font-weight:bold;">1865.동철이의 일 분배</span><br>
+
+2819.격자판의 숫자 이어 붙이기<br>
+
 3143.가장 빠른 문자열 타이핑<br>
+
+<span style="color:#007bff;font-weight:bold;">3234.준환이의 양팔저울</span><br>
+
+<span style="color:#007bff;font-weight:bold;">3289.서로소 집합</span><br>
+
+3347.올림픽 종목 투표<br>
+
+4366.정식이의 은행업무<br>
+
+<span style="color:#007bff;font-weight:bold;">5213.진수의 홀수 약수</span><br>
+
+<span style="color:#007bff;font-weight:bold;">5249.최소 신장 트리</span><br>
+
+<span style="color:#007bff;font-weight:bold;">5251.최소 이동거리</span><br>
 
 5432.쇠막대기 자르기<br>
 
@@ -228,11 +260,13 @@ input/<br>
 
 ### D5
 
-`2`
+`3`
 
 1259.금속막대<br>
 
 1265.달란트2<br>
+
+<span style="color:#007bff;font-weight:bold;">5521.상원이의 생일파티</span><br>
 
 <br>
 
