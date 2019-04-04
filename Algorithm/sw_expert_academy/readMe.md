@@ -260,11 +260,13 @@ input/<br>
 
 ### D5
 
-`3`
+`4`
 
 1259.금속막대<br>
 
 1265.달란트2<br>
+
+4112.이상한 피라미드 탐험<br>
 
 <span style="color:#007bff;font-weight:bold;">5521.상원이의 생일파티</span><br>
 
