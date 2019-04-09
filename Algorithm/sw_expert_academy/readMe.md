@@ -68,7 +68,7 @@ input/<br>
 
 1289.원재의 메모리 복구하기<br>
 
-<span style="color:#007bff;font-weight:bold">1859.백만 장자 프로젝트</span><br>
+<span style="color:#28a745;font-weight:bold">1859.백만 장자 프로젝트</span><br>
 
 1926.간단한 369게임<br>
 
@@ -76,7 +76,7 @@ input/<br>
 
 1945.간단한 소인수분해<br>
 
-<span style="color:#007bff;font-weight:bold">1946.간단한 압축 풀기</span><br>
+<span style="color:#28a745;font-weight:bold">1946.간단한 압축 풀기</span><br>
 
 1948.날짜 계산기<br>
 
@@ -128,7 +128,7 @@ input/<br>
 
 ### D3
 
-`38`
+`40`
 
 1206.View<br>
 
@@ -167,6 +167,8 @@ input/<br>
 4843.특별한 정렬<br>
 
 5099.피자 굽기<br>
+
+<span style="color:#007bff;font-weight:bold;">5105.미로의 거리</span><br>
 
 5162.두가지 빵의 딜레마<br>
 
@@ -212,7 +214,7 @@ input/<br>
 
 ### D4
 
-`21`
+`23`
 
 1210.Ladder1<br>
 
@@ -242,7 +244,11 @@ input/<br>
 
 3347.올림픽 종목 투표<br>
 
+<span style="color:#007bff;font-weight:bold;">3752.가능한 시험 점수</span><br>
+
 4366.정식이의 은행업무<br>
+
+<span style="color:#007bff;font-weight:bold;">4672.수진이의 팰린드롬</span><br>
 
 <span style="color:#007bff;font-weight:bold;">5213.진수의 홀수 약수</span><br>
 
@@ -266,7 +272,7 @@ input/<br>
 
 1265.달란트2<br>
 
-4112.이상한 피라미드 탐험<br>
+<span style="color:#007bff;font-weight:bold;">4112.이상한 피라미드 탐험</span><br>
 
 <span style="color:#007bff;font-weight:bold;">5521.상원이의 생일파티</span><br>
 
