@@ -60,7 +60,7 @@ input/<br>
 
 ### D2
 
-`31`<br>
+`32`<br>
 
 1204.최빈수 구하기<br>
 
@@ -97,6 +97,8 @@ input/<br>
 2001.파리퇴치<br>
 
 2005.파스칼의 삼각형<br>
+
+<span style="color:#007bff;font-weight:bold;">2007.패턴 마디의 길이</span><br>
 
 4828.min max<br>
 
