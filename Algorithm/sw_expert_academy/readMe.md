@@ -134,7 +134,7 @@ input/<br>
 
 ### D3
 
-`40`
+`41`
 
 1206.View<br>
 
@@ -215,6 +215,8 @@ input/<br>
 <span style="color:#007bff;font-weight:bold">6190.정곤이의 단조 증가하는 수</span><br>
 
 6485.삼성시의 버스 노선<br>
+
+7675.통역사 성경이<br>
 
 <br>
 
